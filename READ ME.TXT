@@ -3,7 +3,7 @@ A aplicação não está muito avançada como ainda sou iniciante na área de de
 
 # Descompactar o arquivo na pasta em que será usado, por exemplo, em C:\projetos
 
-# Navegue até a pasta do projeto por meio do terminal, por exemplo, caso 
+# Navegue até a pasta do projeto por meio do terminal, indico usarem o conda, por exemplo, caso 
 >> cd C:\projetos\gestao_enderecos
 
 # Use o comando 'dir' para ver no terminal (caso do windows, também funciona no Ubuntu) se está na mesma pasta que o manage.py e o requirements.txt
