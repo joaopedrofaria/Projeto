@@ -1,0 +1,34 @@
+﻿
+A aplicação não está muito avançada como ainda sou iniciante na área de desenvolvimento fiz o  melhor que pude com o que estou aprendendo na faculdade, para rodar o programa siga os seguintes passos:
+
+# Descompactar o arquivo na pasta em que será usado, por exemplo, em C:\projetos
+
+# Navegue até a pasta do projeto por meio do terminal, por exemplo, caso 
+>> cd C:\projetos\gestao_enderecos
+
+# Use o comando 'dir' para ver no terminal (caso do windows, também funciona no Ubuntu) se está na mesma pasta que o manage.py e o requirements.txt
+>> dir
+
+# Use o comando abaixo para instalar as bibliotecas usadas no sistema
+>> pip install -r requirements.txt
+
+# Use os comandos abaixo para criar o banco de dados
+
+>> python manage.py makemigrations
+
+>> python manage.py migrate
+
+
+# Rode o servidor de desenvolvimento
+>> python manage.py runserver
+
+
+# Abra o navegador e acesse a página
+localhost:8000
+
+
+
+
+
+
+
